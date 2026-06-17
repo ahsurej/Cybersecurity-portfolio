@@ -1,1 +1,25 @@
 
+# Windows Fundamentals
+
+## Overview
+
+Completed the Windows Fundamentals learning module on TryHackMe.
+
+## Topics Covered
+
+* Windows file system
+* User accounts and permissions
+* Event Viewer
+* Windows Registry
+* Security features
+
+## Key Takeaways
+
+* Learned how Windows logs are stored and viewed.
+* Explored Event Viewer and system events.
+* Understood basic Windows security concepts.
+
+## Evidence
+
+* Completion screenshot included.
+* Notes taken during the lab.
